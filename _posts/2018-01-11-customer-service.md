@@ -1,5 +1,5 @@
 ---
-layout: post // post, page 중 하나를 넣음. post 는 블로그 포스트, page 는 홈페이지를 구성하는 페이지 를 의미함
+layout: post
 title:  "행거도어 관련 상품 추천"
 author: JUN // 저자
 categories: [ 가구/인테리어 ]
