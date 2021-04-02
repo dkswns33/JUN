@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "행거도어 관련 상품 추천"
-author: JUN // 저자
+author: JUN
 categories: [ 가구/인테리어 ]
 tags: [행거도어,행거도어 상세도,행거도어 dwg,행거도어 열관류율,행거도어 부속]
 image: https://static.coupangcdn.com/image/retail/images/801709134030-6cb87ab3-af7f-4ebe-becc-25f762d24c3a.jpg 
