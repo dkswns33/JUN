@@ -1,6 +1,6 @@
 # Site
-name: "JUN의 알뜰 블로그"
-title: "JUN의 알뜰 블로그"
+name: "Joony의 알뜰 블로그"
+title: "Joony의 알뜰 블로그"
 description: "좋은 품질의 물건을 고를 수 있도록 도와드릴게요"
 #assets > images > logo1.png 등 이렇게 사진올리고 파일에 추가한 후에 아래 파일명 변경하면됨
 logo: 'assets/images/logo.png'
@@ -41,7 +41,7 @@ jekyll-archives:
   permalinks:
     category: '/category/:name/'
     
-# Pagination 한페이지에 보여주는
+# Pagination 한페이지에 보여주는 몇페이지 몇페이지
 paginate: 12
 paginate_path: /page:num/
     
